@@ -4,7 +4,7 @@
 * [HackerLab](https://hackerlab.pro/users/jhvvugcv/)
 * [TryHackMe](https://tryhackme.com/p/jjrwgho) 
 * [Hack The Box](https://profile.hackthebox.com/profile/019f3155-1630-72da-b193-64e6107aa344)
-* [DUCKERZ] al1n4q
+* DUCKERZ: al1n4q
 
 ## 🛠️ Стек технологий
 
